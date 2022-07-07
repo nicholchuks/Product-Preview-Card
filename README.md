@@ -7,3 +7,5 @@
 Thanks for checking out this front-end coding challenge.
 
 This challenge from (Frontend Mentor](https://www.frontendmentor.io) help you improve your coding skills by building realistic projects.
+
+click on this link to have a preview of the finished project https://nicholchuks.github.io/Product-Preview-Card/
